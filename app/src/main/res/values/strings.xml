@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeepNotes</string>
+    <string name="note1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Quisque pretium rutrum ligula.</string>
+    <string name="note2">Mauris ac massa vestibulum nisl facilisis viverra. Duis sem velit, ultrices et, fermentum auctor, rhoncus ut, ligula. Suspendisse fermentum. Vivamus quis mi. Morbi urna.</string>
+    <string name="note3"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc in turpis ac lacus eleifend sagittis. Nunc in turpis ac lacus eleifend sagittis.</string>
+    <string name="note4">Nunc in turpis ac lacus eleifend sagittis. Cras facilisis felis sit amet lorem.</string>
+    <string name="note5"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc in turpis ac lacus eleifend sagittis.</string>
+    <string name="note6">Mauris ac massa vestibulum nisl facilisis viverra. Vivamus quis mi. Morbi urna.Nunc in turpis ac lacus eleifend sagittis. Cras facilisis felis sit amet lorem.</string>
+    <string name="tick">M4.8,13.4 L9,17.6 M10.4,16.2 L19.6,7</string>
+    <string name="cross">M6.4,6.4 L17.6,17.6 M6.4,17.6 L17.6,6.4</string>
+</resources>
