@@ -60,6 +60,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
+        // Animación que desaparece el texto
         adaptador.onClick = {
             val cx = it.getWidth()
             val cy = it.getHeight()
